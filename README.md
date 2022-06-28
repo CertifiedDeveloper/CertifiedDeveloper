@@ -1,16 +1,33 @@
-### Hi there 👋
+# JingLuo
 
-<!--
-**CertifiedDeveloper/CertifiedDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <th align="center" colspan="3"><h1 align="center">Hi 👋, my name is Jing Luo</h1></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <pre>{ hello,</pre>
+    </td>
+    <td align="center">
+      <pre>world }</pre>
+    </td>
+    <td align="center" colspan="3">
+      <pre>= require('JingLuo')</pre>
+    </td>
+  </tr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <tr>
+    <td colspan="2">
+      <img
+        width="234"
+        height="234"
+        src="./Octocat-large.png"
+      />
+    </td>
+    <td colspan="1" align="center">
+      Hello, my name is Jing Luo. I am a full stack developer, classically trained in object-oriented programming, who love to write smart contracts. I enjoy creating things and passionate about problem-solving through critical thinking.
+      Technology is making life easier. Coding is a powerful skill of mine to make this goal happen and be put into practice.
+      I am actively seeking a full-time Software Engineer position.
+    </td>
+  </tr>
+</table>
