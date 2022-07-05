@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th align="center" colspan="3"><h1 align="center">Hi 👋, my name is Jing Luo</h1></th>
+    <th align="center" colspan="3"><h1 align="center">Hi 👋, my name is George</h1></th>
   </tr>
   <tr>
     <td align="center">
